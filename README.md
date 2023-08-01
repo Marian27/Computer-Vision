@@ -1,5 +1,9 @@
-# Computer Vision
+# Computer Vision Practice on CIFAR-10
 A set of algorithms for computer vision projects
+
 ## Description
-The purpose of this repository is to keep track of computer vision algorithms I encounter during my practice. The code has been sourced from open-access computer resources and is mostly based on a computer vision course from Stanford CS231n. https://cs231n.github.io/
+Here I practice training and debugging implementations of the most common computer vision algorithms. 
 Training data: CIFAR-10 dataset https://www.cs.toronto.edu/~kriz/cifar.html
+
+The original implementations have been sourced from open-access computer resources (Computer Vision from Stanford CS231n. https://cs231n.github.io/)
+
