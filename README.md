@@ -1,4 +1,4 @@
-# Computer Vision Practice on CIFAR-10
+# Computer Vision on CIFAR-10
 A set of algorithms I have used for computer vision projects
 
 ## Description
